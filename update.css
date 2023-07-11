@@ -1,0 +1,76 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.background-img{
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.button-info{
+  border: none;
+  background-color: black;
+  position: absolute;
+  border-radius: 20px;
+  height: 20px;
+ width: 100px;
+ left: 0;
+ margin-left: 300px;
+
+}
+.button1{
+  border: none;
+  background-color: black;
+  position: absolute;
+  border-radius: 20px;
+  right: 0;
+  height: 20px;
+ width: 100px;
+ margin-right: 300px;
+ 
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  left: 0;
+  margin-left: 0%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+  
+ 
+}
+  *{
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: rgb(145, 145, 145);
+    color: white;
+    
+  }
+  .opening-quote{
+    left: 0;
+    margin-left: -350px;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+  }
+  .ending-quote{
+    margin-left: 350px;
+    text-emphasis: bold;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    margin-top: 0px;
+  }
+  .Text-motto{
+    font-weight: 10px;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-family: cursive;
+    
+    
+  }
